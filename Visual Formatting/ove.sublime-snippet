@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+overflow ellipsis
+
+]]></content>
+	<tabTrigger>ov:e</tabTrigger>
+	<scope>source.stylus</scope>
+	<description>overflow:ellipsis</description>
+</snippet>
